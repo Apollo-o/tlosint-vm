@@ -10,8 +10,12 @@ The repository includes a recipe file to build a Linux OSINT Distribution for Tr
 https://github.com/Apollo-o/tlosint-vm/releases
 
 ## Checksum
-``` 
+```
 OVA.zip    F244D15DEC39BDB8BA88F2C7AD0B3A2504313EC9DCEB296F7857F15EE680C70A
+```
+## Login
+```
+osint:osint
 ```
 
 ## Applications
