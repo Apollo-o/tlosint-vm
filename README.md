@@ -59,6 +59,7 @@ OVA.zip    F244D15DEC39BDB8BA88F2C7AD0B3A2504313EC9DCEB296F7857F15EE680C70A
 
 **Usernames**
 * [Alias Generator (OSRFramework)](https://github.com/i3visio/osrframework)
+* [Blackbird](https://github.com/p1ngul1n0/blackbird)
 * [Sherlock](https://github.com/sherlock-project/sherlock)
 * [Usufy (OSRFramework)](https://github.com/i3visio/osrframework)
 
