@@ -28,3 +28,6 @@ chmod +x /usr/bin/phoneinfoga
 
 #TJ-Null OSINT Notebook
 git clone --recursive https://github.com/tjnull/TJ-OSINT-Notebook.git /etc/skel/Desktop/TJ-OSINT-Notebook
+
+# Change Lock Screen
+sudo ln -sf /usr/share/desktop-base/kali-theme/login/background /usr/share/desktop-base/kali-theme/login/background.svg
