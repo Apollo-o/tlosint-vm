@@ -1,5 +1,11 @@
 #!/bin/sh
 
+#Blackbird
+git clone --recursive https://github.com/p1ngul1n0/blackbird.git /usr/share/blackbird
+cd /usr/share/blackbird
+pip install -r requirements.txt
+chmod +x /usr/bin/blackbird
+
 #OnionSearch
 git clone --recursive https://github.com/megadose/OnionSearch.git /usr/share/OnionSearch
 cd /usr/share/OnionSearch
